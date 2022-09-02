@@ -18,6 +18,7 @@ assets/earthrise.webp
 assets/jwst_exoplanet.webp
 assets/aps_U_high_bay.jpg
 assets/breeder_reactor_bulbs.jpg
+assets/skelly-s25.jpg
 assets/black-hole-photo.webp
 """.split()
 PHOTOS = [THIS_DIR / f for f in PHOTOS]
